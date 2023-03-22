@@ -1,0 +1,66 @@
+{
+  "id" : "https://JennyNW.github.io/Or11864iiifproject/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in JennyNW/Or11864iiifproject project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 939,
+    "id" : "https://JennyNW.github.io/Or11864iiifproject/images/Or11864_0101/canvas/",
+    "label" : {
+      "none" : [ "Or11864_0101" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://JennyNW.github.io/Or11864iiifproject/images/Or11864_0101/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://JennyNW.github.io/Or11864iiifproject/images/Or11864_0101/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 30,
+              "height" : 38
+            }, {
+              "width" : 59,
+              "height" : 75
+            }, {
+              "width" : 118,
+              "height" : 150
+            }, {
+              "width" : 235,
+              "height" : 300
+            }, {
+              "width" : 470,
+              "height" : 600
+            }, {
+              "width" : 939,
+              "height" : 1200
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 939,
+            "@id" : "https://JennyNW.github.io/Or11864iiifproject/images/Or11864_0101",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1200
+          } ],
+          "format" : "image/jpeg",
+          "width" : 939,
+          "id" : "https://JennyNW.github.io/Or11864iiifproject/images/Or11864_0101/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1200
+        },
+        "target" : "https://JennyNW.github.io/Or11864iiifproject/images/Or11864_0101/canvas/"
+      } ]
+    } ],
+    "height" : 1200
+  } ]
+}
