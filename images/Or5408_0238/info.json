@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 30,
+    "height" : 38
+  }, {
+    "width" : 60,
+    "height" : 75
+  }, {
+    "width" : 119,
+    "height" : 150
+  }, {
+    "width" : 238,
+    "height" : 300
+  }, {
+    "width" : 475,
+    "height" : 600
+  }, {
+    "width" : 950,
+    "height" : 1200
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 950,
+  "@id" : "https://JennyNW.github.io/Or11864iiifproject/images/Or5408_0238",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1200
+}
