@@ -1,0 +1,13 @@
+{
+  "id" : "https://JennyNW.github.io/Or11864iiifproject/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in JennyNW/Or11864iiifproject project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://JennyNW.github.io/Or11864iiifproject/manifests/manifest2.json",
+    "label" : "JennysManifest"
+  } ]
+}
